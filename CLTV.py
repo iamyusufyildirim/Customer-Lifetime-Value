@@ -35,7 +35,7 @@
 # 1. Business Problem 
 # 2. Data Understanding
 # 3. Data Preparation
-# 4. Converting dataframe to CLTV dataframe
+# 4. Preparation of CLTV Data Structere
 # 5. Average Order Value = total_price / total_transaction
 # 6. Purchase Frequency = total_transaction / total_number_of_customers
 # 7. Repeat Rate & Churn Rate = Birden fazla kez alışveriş yapan müşteri sayısı / tüm müşteriler
